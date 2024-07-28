@@ -66,7 +66,7 @@ chmod +x simple-agent
 
 
 Run Carwhisperer
-
+start ..\htdocs\Auto
 ```
 
 ./cw_scanner
